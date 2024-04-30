@@ -1,0 +1,33 @@
+.top-container{
+    height: 47vh;
+    width: 190px;
+}
+.main-heading{
+    margin-top: 15px;
+    margin-left: 18px;
+}
+.specifications-card-description{
+    margin-left: 29px;
+    text-align: 10px;
+    color: #707070;
+}
+.specification-card{
+    text-align: left;
+    background-color: white;
+    color: #0a1f44;
+    border-style: solid;
+    width: 384px;
+    margin-bottom: 20px;
+    height: 298px;
+    font-size: medium;
+}
+.button{
+    text-align: center;
+    background-color: #0b68d3f1;
+    margin-left: 96px;
+    width: 111px;
+    height: 39px;
+    border-radius: 9px;
+    margin-top: 5px;
+    color: white;
+}
